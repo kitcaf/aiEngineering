@@ -1,3 +1,10 @@
+# 核心
+
+路由，
+（1）怎么路由？ agentNet
+（2）怎么支持路由？
+
+
 # Decentralization MAS
 
 # 一、以去中心化为核心的协作方法
