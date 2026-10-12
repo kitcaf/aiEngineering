@@ -54,7 +54,7 @@ We propose an epistemic calibration framework for decentralized multi-agent syst
 
 Decentralized multi-agent systems often fail not due to insufficient capability, but due to epistemic miscalibration:
 
-- agents act when they should not
+- agents actqu when they should not
 - agents fail to defer when necessary
 - agents misidentify appropriate collaborators
 
@@ -63,8 +63,11 @@ Decentralized multi-agent systems often fail not due to insufficient capability,
 We argue that improving capability alone is insufficient.
 Instead, agents must calibrate:
 
-(1) self-awareness: what they can and cannot do   （自我意识）
-(2) social-awareness: how they should interact with others   （社会意识）
+> skill, 记忆
+去中心化的对比中心化的难点是什么，对比。核心还能是路由
+> 
+(1) self-awareness: what they can and cannot do   （自我意识） 输入一个q, 知道自己能不能做，知道自己能力
+(2) social-awareness: how they should interact with others   （社会意识）解决任务对社会（后面）的影响，知道解决这个问题，对问题影响的走向
 
 
 ⚙️ 三、Method
